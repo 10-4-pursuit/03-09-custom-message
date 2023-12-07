@@ -1,4 +1,5 @@
 import CustomMessage from "./CustomMessage";
+import "./App.css";
 
 function App() {
   return (
