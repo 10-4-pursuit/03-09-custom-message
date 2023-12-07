@@ -1,10 +1,10 @@
-
-import CustomMessage from './CustomMessage';
+import CustomMessage from "./CustomMessage";
 
 function App() {
   return (
     <div className="App">
-     <CustomMessage message = "Hello World from JSX!"/>
+      <CustomMessage message="Hi, there my friend" />
+      <CustomMessage message="Hello World from JSX!" />
     </div>
   );
 }
